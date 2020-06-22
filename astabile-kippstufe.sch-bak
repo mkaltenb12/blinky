@@ -239,4 +239,26 @@ Wire Wire Line
 	6600 2700 6700 2700
 Wire Wire Line
 	6600 4850 6700 4850
+$Comp
+L Device:R Logo1
+U 1 1 5EECCACC
+P 12200 4900
+F 0 "Logo1" H 12270 4946 50  0000 L CNN
+F 1 "Silk" H 12270 4855 50  0000 L CNN
+F 2 "astabile-kippstufe:HTL-Steyr-Logo_4x4mm_SilkScreen" V 12130 4900 50  0001 C CNN
+F 3 "~" H 12200 4900 50  0001 C CNN
+	1    12200 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R Logo2
+U 1 1 5EECD020
+P 12200 5300
+F 0 "Logo2" H 12270 5346 50  0000 L CNN
+F 1 "Copper" H 12270 5255 50  0000 L CNN
+F 2 "astabile-kippstufe:HTL-Steyr-Logo_4x4mm_Copper" V 12130 5300 50  0001 C CNN
+F 3 "~" H 12200 5300 50  0001 C CNN
+	1    12200 5300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
